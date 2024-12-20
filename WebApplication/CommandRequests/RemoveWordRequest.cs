@@ -1,4 +1,4 @@
-namespace WebVocabulary.CommandRequests;
+namespace WebApplication.CommandRequests;
 
 public class RemoveWordRequest
 {

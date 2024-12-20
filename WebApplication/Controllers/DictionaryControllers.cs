@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
-using WebVocabulary.CommandRequests;
-using WebVocabulary.Data;
-using WebVocabulary.Data.Interfaces;
-using WebVocabulary.Manager;
-using WebVocabulary.Manager.Interfaces;
+using WebApplication.CommandRequests;
+using WebApplication.Data;
+using WebApplication.Data.Interfaces;
+using WebApplication.Manager;
+using WebApplication.Manager.Interfaces;
 
-namespace WebVocabulary.Controllers;
+namespace WebApplication.Controllers;
 
 [ApiController]
 [Route("api/[action]")]

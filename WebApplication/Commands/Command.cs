@@ -1,6 +1,6 @@
-using WebVocabulary.Data;
+using WebApplication.Data;
 
-namespace WebVocabulary.Commands;
+namespace WebApplication.Commands;
 
 public abstract class Command
 {

@@ -1,9 +1,9 @@
-using WebVocabulary.Commands;
-using WebVocabulary.Data;
-using WebVocabulary.Data.Interfaces;
-using WebVocabulary.Manager.Interfaces;
+using WebApplication.Commands;
+using WebApplication.Data;
+using WebApplication.Data.Interfaces;
+using WebApplication.Manager.Interfaces;
 
-namespace WebVocabulary.Manager;
+namespace WebApplication.Manager;
 
 public class CommandManager : ICommandManager
 {

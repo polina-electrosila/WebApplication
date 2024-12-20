@@ -1,7 +1,7 @@
-using WebVocabulary.Data;
-using WebVocabulary.Data.Interfaces;
+using WebApplication.Data;
+using WebApplication.Data.Interfaces;
 
-namespace WebVocabulary.Commands;
+namespace WebApplication.Commands;
 
 public class AddWord : Command
 {

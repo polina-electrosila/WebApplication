@@ -1,4 +1,4 @@
-namespace WebVocabulary.Data.Interfaces;
+namespace WebApplication.Data.Interfaces;
 
 public interface IDictionaryContext {
     Task<int> Count();

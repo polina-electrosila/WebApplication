@@ -1,4 +1,4 @@
-namespace WebVocabulary.Data;
+namespace WebApplication.Data;
 
 public class Response
 {

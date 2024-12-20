@@ -1,6 +1,6 @@
-@WebVocabulary_HostAddress = http://localhost:5242
+@WebApplication_HostAddress = http://localhost:5242
 
-GET {{WebVocabulary_HostAddress}}/weatherforecast/
+GET {{WebApplication_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

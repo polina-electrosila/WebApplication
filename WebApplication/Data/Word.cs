@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
-using WebVocabulary.Data.Interfaces;
+using WebApplication.Data.Interfaces;
 
-namespace WebVocabulary.Data;
+namespace WebApplication.Data;
 
 public class Word
 {

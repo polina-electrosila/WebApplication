@@ -1,7 +1,7 @@
 using Moq;
-using WebVocabulary.Commands;
-using WebVocabulary.Data;
-using WebVocabulary.Data.Interfaces;
+using WebApplication.Commands;
+using WebApplication.Data;
+using WebApplication.Data.Interfaces;
 using Xunit;
 
 namespace UnitTests;

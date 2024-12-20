@@ -1,4 +1,4 @@
-namespace WebVocabulary
+namespace WebApplication
 {
     public class Program
     {

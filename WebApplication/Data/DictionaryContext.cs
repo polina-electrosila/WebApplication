@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using WebVocabulary.Data.Interfaces;
+using WebApplication.Data.Interfaces;
 
-namespace WebVocabulary.Data;
+namespace WebApplication.Data;
 
 public class DictionaryContext : DbContext, IDictionaryContext
 {

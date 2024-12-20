@@ -1,6 +1,6 @@
-using WebVocabulary.Data;
+using WebApplication.Data;
 
-namespace WebVocabulary.Manager.Interfaces;
+namespace WebApplication.Manager.Interfaces;
 
 public interface ICommandManager
 {

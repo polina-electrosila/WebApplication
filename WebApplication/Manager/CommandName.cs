@@ -1,4 +1,4 @@
-namespace WebVocabulary.Manager;
+namespace WebApplication.Manager;
 
 // Класс-перечисление с именами команд
 public enum CommandName
